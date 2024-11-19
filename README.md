@@ -1,6 +1,6 @@
 
 
-In progress:  https://dgenutis-portfolio-template3.netlify.app/
+In progress...
 Portfolio template3 with : Next.js, TypeScript, TailwindCSS
 
 
