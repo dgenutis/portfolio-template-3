@@ -1,4 +1,7 @@
-Portfolio template3 in progress with : Next.js, TypeScript, TailwindCSS
+
+
+In progress:  https://dgenutis-portfolio-template3.netlify.app/
+Portfolio template3 with : Next.js, TypeScript, TailwindCSS
 
 
 
