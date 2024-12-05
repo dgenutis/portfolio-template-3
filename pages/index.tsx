@@ -3,6 +3,7 @@ import Hero from "@/Components/Hero";
 import MobileNav from "@/Components/MobileNav";
 import Nav from "@/Components/Nav";
 import Services from "@/Components/Services";
+import Skils from "@/Components/Skils";
 import React, { useState } from "react";
 
 const HomePage = () => {
@@ -19,6 +20,7 @@ const HomePage = () => {
         <div className="relative z-[30]">
           <About />
           <Services />
+          <Skils />
         </div>
       </div>
     </div>
