@@ -1,4 +1,5 @@
 import About from "@/Components/About";
+import Blog from "@/Components/Blog";
 import Hero from "@/Components/Hero";
 import MobileNav from "@/Components/MobileNav";
 import Nav from "@/Components/Nav";
@@ -25,6 +26,7 @@ const HomePage = () => {
           <Skils />
           <Projects />
           <Testimonial />
+          <Blog />
         </div>
       </div>
     </div>
