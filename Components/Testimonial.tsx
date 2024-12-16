@@ -1,4 +1,4 @@
-import React from 'react'
+
 import TestimonialSlider from './TestimonialSlider'
 
 const Testimonial = () => {

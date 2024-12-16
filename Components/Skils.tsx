@@ -1,4 +1,4 @@
-import React from 'react'
+
 import SkilsItem from './SkilsItem'
 import SkilsLanguage from './SkilsLanguage'
 

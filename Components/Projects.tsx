@@ -1,4 +1,4 @@
-import React from "react";
+
 import Image from "next/image";
 
 const Projects = () => {
@@ -13,8 +13,9 @@ const Projects = () => {
             <Image
               src="/images/p1.jpg"
               alt="portfolio"
-              layout="fill"
-              className="object-contain"
+              fill={true}
+              style={{ objectFit: "contain" }}
+              className="relative"
             />
           </div>
         </div>
@@ -23,8 +24,9 @@ const Projects = () => {
             <Image
               src="/images/p2.jpg"
               alt="portfolio"
-              layout="fill"
-              className="object-contain"
+              fill={true}
+              style={{ objectFit: "contain" }}
+              className="relative"
             />
           </div>
         </div>
@@ -33,8 +35,9 @@ const Projects = () => {
             <Image
               src="/images/p3.jpg"
               alt="portfolio"
-              layout="fill"
-              className="object-contain"
+              fill={true}
+              style={{ objectFit: "contain" }}
+              className="relative"
             />
           </div>
         </div>
@@ -43,8 +46,9 @@ const Projects = () => {
             <Image
               src="/images/p4.jpg"
               alt="portfolio"
-              layout="fill"
-              className="object-contain"
+              fill={true}
+              style={{ objectFit: "contain" }}
+              className="relative"
             />
           </div>
         </div>
@@ -53,8 +57,9 @@ const Projects = () => {
             <Image
               src="/images/p5.jpg"
               alt="portfolio"
-              layout="fill"
-              className="object-contain"
+              fill={true}
+              style={{ objectFit: "contain" }}
+              className="relative"
             />
           </div>
         </div>
@@ -63,8 +68,9 @@ const Projects = () => {
             <Image
               src="/images/p1.jpg"
               alt="portfolio"
-              layout="fill"
-              className="object-contain"
+              fill={true}
+              style={{ objectFit: "contain" }}
+              className="relative"
             />
           </div>
         </div>

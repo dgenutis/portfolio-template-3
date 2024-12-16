@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Image from 'next/image'
 import { ChatBubbleLeftRightIcon, UserCircleIcon } from '@heroicons/react/20/solid'
 
@@ -15,7 +15,7 @@ const Blog = () => {
             <Image
               src="/images/blog3.jpg"
               alt="blog"
-              layout="fill"
+              fill={true}
               className="object-cover"
             />
           </div>
@@ -43,7 +43,7 @@ const Blog = () => {
             <Image
               src="/images/blog2.jpg"
               alt="blog"
-              layout="fill"
+              fill={true}
               className="object-cover"
             />
           </div>
@@ -71,7 +71,7 @@ const Blog = () => {
             <Image
               src="/images/blog1.jpg"
               alt="blog"
-              layout="fill"
+              fill={true}
               className="object-cover"
             />
           </div>

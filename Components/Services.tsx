@@ -1,5 +1,5 @@
 import { CodeBracketSquareIcon, CommandLineIcon, RocketLaunchIcon } from "@heroicons/react/20/solid";
-import React from "react";
+
 
 const Services = () => {
   return (
