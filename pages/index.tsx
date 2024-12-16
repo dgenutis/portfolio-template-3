@@ -1,13 +1,13 @@
-import About from "@/components/About";
-import Blog from "@/components/Blog";
-import Footer from "@/components/Footer";
-import Hero from "@/components/Hero";
-import MobileNav from "@/components/MobileNav";
-import Nav from "@/components/Nav";
-import Projects from "@/components/Projects";
-import Services from "@/components/Services";
-import Skils from "@/components/Skils";
-import Testimonial from "@/components/Testimonial";
+import About from "../components/About";
+import Blog from "../components/Blog";
+import Footer from "../components/Footer";
+import Hero from "../components/Hero";
+import MobileNav from "../components/MobileNav";
+import Nav from "../components/Nav";
+import Projects from "../components/Projects";
+import Services from "../components/Services";
+import Skils from "../components/Skils";
+import Testimonial from "../components/Testimonial";
 import { useEffect, useState } from "react";
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
